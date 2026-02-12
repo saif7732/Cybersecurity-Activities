@@ -8,12 +8,12 @@
 
 1. Firstly we have to connect to the machine we are attacking using the `ssh user@userIP` command and then enter the password of the user.
 
-<br>
+<br><br>
 
 2. After enter the password (given in the task which is “tryhackme”) we will see something like this:
 
 <img width="796" height="486" alt="Screenshot 2026-02-11 161327" src="https://github.com/user-attachments/assets/e7020bfa-47e5-4ce5-a7c6-e6bec204e115" />
-<br>
+<br><br>
 
 3. Now our goal is to download the flag.txt from the remote pc (tryhackme) by running the server.
 
