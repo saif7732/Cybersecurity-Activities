@@ -44,8 +44,9 @@ Step-5: Now that we have the file in our pc, we can easily check the content of 
 ---
 ---
 
+<br><br>
+
 # <p align="center"> Room: Linux fundamentals part 3, task-8 </p>
----
 ---
 
 ## Objective: getting IP address of a user from log file
