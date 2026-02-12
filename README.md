@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Journey Repository
 
-## 👨‍💻 About Me
+##  About Me
 
 Hello, I'm **Saif**, a Computer Science student with a deep passion for **Cybersecurity and Ethical Hacking**.
 I am strongly interested in understanding how systems work, how they break, and how they can be secured.
@@ -9,7 +9,7 @@ My long-term ambition is to become a **highly skilled Cybersecurity Specialist**
 
 ---
 
-## 🎯 Ultimate Goal
+##  Ultimate Goal
 
 My ultimate goal is simple and clear:
 
@@ -19,7 +19,7 @@ I aim to build strong technical foundations, practical skills, and a professiona
 
 ---
 
-## 📁 Purpose of This Repository
+##  Purpose of This Repository
 
 This repository serves as my **personal cybersecurity knowledge base**.
 
@@ -32,19 +32,6 @@ I created it to:
 * Maintain a public record of my growth and dedication
 
 Everything here reflects my effort to continuously improve and deepen my understanding of cybersecurity.
-
----
-
-## 🧠 Philosophy
-
-Cybersecurity is not just about tools — it is about mindset, curiosity, and consistency.
-
-I believe in:
-
-* Learning by doing
-* Practicing regularly
-* Documenting knowledge
-* Improving every single day
 
 ---
 
