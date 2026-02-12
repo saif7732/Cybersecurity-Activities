@@ -10,13 +10,16 @@ Firstly we have to connect to the machine we are attacking using the “ssh user
 
 <img width="784" height="391" alt="Screenshot 2026-02-11 161041" src="https://github.com/user-attachments/assets/3217d9e6-332a-467d-b7cd-412652e4b4ee" />
 
+
 After enter the password (given in the task which is “tryhackme”) we will see something like this:
 
 <img width="796" height="486" alt="Screenshot 2026-02-11 161327" src="https://github.com/user-attachments/assets/e7020bfa-47e5-4ce5-a7c6-e6bec204e115" />
 
+
 Now our goal is to download the flag.txt from the remote pc (tryhackme) by running the server.
 
 <img width="732" height="168" alt="Screenshot 2026-02-11 164323" src="https://github.com/user-attachments/assets/ffd9cbdf-a40b-4a53-86aa-c77f34adf93d" />
+
 
 Then we just have to download the file using the “wget sourceaddress” command.
 
