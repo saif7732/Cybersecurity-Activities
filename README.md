@@ -42,6 +42,8 @@ The goal is to learn cybersecurity to **protect and secure systems**, never to h
 
 ---
 ## TryHackMe:
+<a href="https://tryhackme.com/p/saif7732">
 <img src="https://tryhackme-badges.s3.amazonaws.com/saif7732.png" alt="Your Image Badge" />
+</a>
 
 
