@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Journey Repository
+# Cybersecurity Journey Repository
 
 ##  About Me
 
@@ -41,9 +41,6 @@ All notes and writeups in this repository are created **strictly for educational
 The goal is to learn cybersecurity to **protect and secure systems**, never to harm or misuse knowledge.
 
 ---
-## TryHackMe:
-<a href="https://tryhackme.com/p/saif7732">
-<img src="https://tryhackme-badges.s3.amazonaws.com/saif7732.png" alt="Your Image Badge" />
-</a>
+
 
 
